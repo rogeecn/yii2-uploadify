@@ -1,0 +1,21 @@
+{
+    "name": "rogeecn/yii2-uploadify",
+    "description": "jquery uploadify extension for yii2 framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "rogee",
+            "email": "rogeecn@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Uploadify\\": ""
+        }
+    }
+}
